@@ -1,18 +1,15 @@
 ## Hi there 👋
-
-<!--
-**monikaGeorgieva/monikaGeorgieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my mini projects
-- 🌱 I’m currently learning in https://softuni.bg/
--->
+- 🌱 I’m currently learning in Software University -- >  https://softuni.bg/
+- 😊 Fun fact for me - I'm lazy but i'm smart.
+
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MonIttaGeorgieva )
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monitta___) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monitta__) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
